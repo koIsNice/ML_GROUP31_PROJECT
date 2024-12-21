@@ -1,5 +1,5 @@
 ### Result
-For the final project, we join a competition in Kaggle [(Link)](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants) and we ranked 282/1610, where the score is 0.43377 in the private leaderboard(RMSE metric).
+For the final project, we join a competition in Kaggle [(Link)](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants) and we ranked 282/1610, where the score is 0.43377 in the private leaderboard (RMSE metric).
 
 ### Model & Dataset & preprocess.py
 In this project, we use the model Catboost with the preprocessed dataset.
